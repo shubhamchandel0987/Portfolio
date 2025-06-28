@@ -19,7 +19,7 @@ This website highlights:
 
 ## 🔗 Live Site
 
-Check it out here: [https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)
+Check it out here: [https://shubhamchandel0987.github.io/Portfolio/]
 
 ##  Contact
 
